@@ -1,7 +1,7 @@
 # RPG Turn-Based Prototype
 **Pre-Interview Test**
 
-Proyek ini adalah prototype *Turn-Based* dengan arsitektur (design pattern). 
+Project ini adalah prototype Turn-Based dengan arsitektur (design pattern). 
 
 ---
 
