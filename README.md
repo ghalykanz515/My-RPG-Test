@@ -17,9 +17,7 @@ Proyek ini adalah prototype *Turn-Based* dengan arsitektur (design pattern).
 
 ---
 
-## Arsitektur & Design Patterns
-
-Sistem dirancang untuk menghindari *tight coupling* dan mengedepankan performa:
+## Design Patterns
 
 - **FSM (State Machine):** Mengontrol transisi fase pertarungan (`PlayerTurn`, `EnemyTurn`, dll) secara terisolasi melalui `IBattleState`.
 - **Service Locator / Singleton:** Mengelola akses sistem inti (`GameManager`, `AudioManager`) secara terpusat dan rapi tanpa bergantung pada *Singleton* tradisional.
@@ -29,7 +27,7 @@ Sistem dirancang untuk menghindari *tight coupling* dan mengedepankan performa:
 
 ---
 
-## Tools & Lingkungan
+## Lingkungan
 
 - **Engine:** Unity 6.3 LTS (6000.3.10f1)
 - **Plugin Narasi:** Fungus V3.13.8 
