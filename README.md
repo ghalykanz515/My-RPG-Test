@@ -27,7 +27,7 @@ Proyek ini adalah prototype *Turn-Based* dengan arsitektur (design pattern).
 
 ---
 
-## Lingkungan
+## Tools & Assets
 
 - **Engine:** Unity 6.3 LTS (6000.3.10f1)
 - **Plugin Narasi:** Fungus V3.13.8 
